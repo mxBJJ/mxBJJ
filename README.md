@@ -11,7 +11,7 @@
 
 ## What am I searching? :mag_right:
 
-# I am looking for learning opportunities as a systems analyst and software developer where I can learn and grow professionally.
+## I am looking for learning opportunities as a systems analyst and software developer where I can learn and grow professionally.
 
 # Objective :dart:
 ## Become a systems analyst.
