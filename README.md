@@ -3,11 +3,11 @@
 
 ## Who am I?
 
-:student: - Student of Analysis and Systems Development (last semester).
-:computer: - I have always loved computers and technology.
-:musical_keyboard: , :guitar: - I love play guitar and keyboard!
-:joystick: - and... love games of course!
-:iphone: - I worked with mobile development for about 10 months.
+:student: - Student of Analysis and Systems Development (last semester). \
+:computer: - I have always loved computers and technology. \
+:musical_keyboard: , :guitar: - I love play guitar and keyboard!\
+:joystick: - and... love games of course! \
+:iphone: - I worked with mobile development for about 10 months. \
 
 ## What am I searching? :mag_right:
 
