@@ -40,5 +40,5 @@
 
 #### Concepts:
 
--> POO :star: \
+-> OOP :star: \
 -> REST API :star:
