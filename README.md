@@ -37,7 +37,7 @@
 -> IntelliJ, Eclipse, STS \
 -> Source Tree \
 -> Jira, Confluence \
--> TFS \
+-> TFS
 
 #### Concepts:
 
