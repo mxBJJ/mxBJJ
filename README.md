@@ -7,7 +7,7 @@
 :computer: - I have always loved computers and technology. \
 :musical_keyboard: , :guitar: - I love play guitar and keyboard!\
 :joystick: - and... love games of course! \
-:iphone: - I worked with mobile development for about 10 months. \
+:iphone: - I worked with mobile development for about 10 months.
 
 ## What am I searching? :mag_right:
 
@@ -20,26 +20,26 @@
 
 #### Programming languages:
 
--> PHP :star:
--> Java :star:
--> JavaScript
--> Swift :star:
+-> PHP :star: \
+-> Java :star: \
+-> JavaScript \
+-> Swift :star: \
 -> Python
 
 #### Frameworks:
 
--> Laravel
+-> Laravel \
 -> Springboot :star:
 
 #### Tools :hammer_and_wrench::
--> Visual Studio Code
--> Sublime Text
--> Intellij, Eclipse, STS
--> Source Tree
--> Jira, Confluence
--> TFS
+-> Visual Studio Code \
+-> Sublime Text \
+-> IntelliJ, Eclipse, STS \
+-> Source Tree \
+-> Jira, Confluence \
+-> TFS \
 
 #### Concepts:
 
--> POO
+-> POO \
 -> REST API
