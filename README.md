@@ -32,14 +32,13 @@
 -> Springboot :star:
 
 #### Tools :hammer_and_wrench::
--> Visual Studio Code \
--> Sublime Text \
+-> Visual Studio Code :star: \
 -> IntelliJ, Eclipse, STS \
--> Source Tree \
--> Jira, Confluence \
+-> Source Tree  :star: \
+-> Jira, Confluence  :star: \
 -> TFS
 
 #### Concepts:
 
--> POO \
--> REST API
+-> POO :star: \
+-> REST API :star:
