@@ -20,8 +20,8 @@
 
 #### Programming languages:
 
--> PHP :star: \
 -> Java :star: \
+-> PHP :star: \
 -> JavaScript \
 -> Swift :star: \
 -> Python
