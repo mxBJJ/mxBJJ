@@ -20,6 +20,7 @@
 
 #### Programming languages:
 
+-> C# :star: \
 -> Java :star: \
 -> PHP :star: \
 -> JavaScript \
@@ -28,6 +29,7 @@
 
 #### Frameworks:
 
+-> .NET Core
 -> Laravel \
 -> Springboot :star:
 
