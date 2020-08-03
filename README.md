@@ -29,7 +29,7 @@
 
 #### Frameworks:
 
--> .NET Core
+-> .NET Core \
 -> Laravel \
 -> Springboot :star:
 
