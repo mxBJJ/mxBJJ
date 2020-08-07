@@ -20,9 +20,9 @@
 
 #### Programming languages:
 
+-> C# :star: \
 -> Java :star: \
 -> PHP :star: \
--> C# :star: \
 -> JavaScript \
 -> Swift :star: \
 -> Python
@@ -34,6 +34,8 @@
 -> Springboot :star:
 
 #### Tools :hammer_and_wrench::
+
+-> Visual Studio :star: \
 -> Visual Studio Code :star: \
 -> IntelliJ, Eclipse, STS \
 -> Source Tree  :star: \
