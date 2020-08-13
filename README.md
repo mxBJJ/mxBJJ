@@ -31,7 +31,7 @@
 
 -> Springboot :star: \
 -> .NET Core \
--> Laravel \
+-> Laravel
 
 #### Tools :hammer_and_wrench::
 
