@@ -21,7 +21,7 @@
 #### Programming languages:
 
 -> Java :star: \
--> C# :star: \
+-> C# \
 -> PHP :star: \
 -> JavaScript \
 -> Swift :star: \
@@ -35,8 +35,8 @@
 
 #### Tools :hammer_and_wrench::
 
--> IntelliJ, Eclipse, STS \
--> Visual Studio :star: \
+-> IntelliJ, Eclipse, STS :star: \
+-> Visual Studio \
 -> Visual Studio Code :star: \
 -> Source Tree  :star: \
 -> Jira, Confluence  :star: \
