@@ -20,8 +20,8 @@
 
 #### Programming languages:
 
--> C# :star: \
 -> Java :star: \
+-> C# :star: \
 -> PHP :star: \
 -> JavaScript \
 -> Swift :star: \
@@ -29,15 +29,15 @@
 
 #### Frameworks:
 
+-> Springboot :star:
 -> .NET Core \
 -> Laravel \
--> Springboot :star:
 
 #### Tools :hammer_and_wrench::
 
+-> IntelliJ, Eclipse, STS \
 -> Visual Studio :star: \
 -> Visual Studio Code :star: \
--> IntelliJ, Eclipse, STS \
 -> Source Tree  :star: \
 -> Jira, Confluence  :star: \
 -> TFS
