@@ -20,9 +20,10 @@
 
 #### Programming languages:
 
+->JavaScript - NodeJS, ReactJS, React Native :star: \
 -> Java :star: \
 -> C# \
--> PHP :star: \
+-> PHP \
 -> JavaScript \
 -> Swift :star: \
 -> Python
