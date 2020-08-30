@@ -20,9 +20,9 @@
 
 #### Programming languages:
 
--> Java :star: \
+-> C# :star: \
+-> Java  \
 ->JavaScript \
--> C# \
 -> PHP \
 -> JavaScript \
 -> Swift :star: \
