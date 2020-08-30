@@ -30,8 +30,8 @@
 
 #### Frameworks:
 
--> Springboot :star: \
--> .NET Core \
+-> .NET Core :star: \
+-> Springboot \
 -> Laravel
 
 #### Tools :hammer_and_wrench::
