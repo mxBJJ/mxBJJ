@@ -36,9 +36,9 @@
 
 #### Tools :hammer_and_wrench::
 
--> Visual Studio Code :star: \
--> IntelliJ, Eclipse, STS :star: \
--> Visual Studio \
+-> Visual Studio :star: \
+-> Visual Studio Code \
+-> IntelliJ, Eclipse, STS \
 -> Source Tree  :star: \
 -> Jira, Confluence  :star: \
 -> TFS
