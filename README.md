@@ -21,7 +21,7 @@
 #### Programming languages:
 
 -> C# :star: \
--> Java  \
+-> Java :star:  \
 ->JavaScript \
 -> PHP \
 -> JavaScript \
