@@ -25,7 +25,7 @@
 ->JavaScript \
 -> PHP \
 -> JavaScript \
--> Python
+-> Java
 
 #### Frameworks:
 
