@@ -21,11 +21,10 @@
 #### Programming languages:
 
 -> C# :star: \
--> Java :star:  \
+-> Swift :star: \
 ->JavaScript \
 -> PHP \
 -> JavaScript \
--> Swift :star: \
 -> Python
 
 #### Frameworks:
