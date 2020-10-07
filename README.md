@@ -19,9 +19,8 @@
 ### What am I learning? :seedling:
 
 #### Programming languages:
-
--> C# :star: \
 -> Swift :star: \
+-> C# \
 ->JavaScript \
 -> PHP \
 -> JavaScript \
