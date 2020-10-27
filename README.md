@@ -28,16 +28,16 @@
 
 #### Frameworks:
 
--> .NET Core :star: \
--> Springboot \
+-> Springboot :star: \
+-> .NET Core \
 -> Laravel
 
 #### Tools :hammer_and_wrench::
 
+-> IntelliJ, Eclipse, STS star: \
 -> XCode :star: \
 -> Visual Studio :star: \
 -> Visual Studio Code \
--> IntelliJ, Eclipse, STS \
 -> Source Tree  :star: \
 -> Jira, Confluence  :star: \
 -> TFS
