@@ -34,7 +34,7 @@
 
 #### Tools :hammer_and_wrench::
 
--> IntelliJ, Eclipse, STS star: \
+-> IntelliJ, Eclipse, STS :star: \
 -> XCode :star: \
 -> Visual Studio \
 -> Visual Studio Code  :star: \
