@@ -19,12 +19,12 @@
 ### What am I learning? :seedling:
 
 #### Programming languages:
+-> Java star: \
 -> Swift :star: \
 -> C# \
 ->JavaScript \
 -> PHP \
 -> JavaScript \
--> Java
 
 #### Frameworks:
 
