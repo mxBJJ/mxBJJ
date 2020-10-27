@@ -36,8 +36,8 @@
 
 -> IntelliJ, Eclipse, STS star: \
 -> XCode :star: \
--> Visual Studio :star: \
--> Visual Studio Code \
+-> Visual Studio \
+-> Visual Studio Code  :star: \
 -> Source Tree  :star: \
 -> Jira, Confluence  :star: \
 -> TFS
