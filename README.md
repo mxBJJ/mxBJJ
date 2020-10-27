@@ -19,7 +19,7 @@
 ### What am I learning? :seedling:
 
 #### Programming languages:
--> Java star: \
+-> Java :star: \
 -> Swift :star: \
 -> C# \
 ->JavaScript \
