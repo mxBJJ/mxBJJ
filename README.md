@@ -20,17 +20,15 @@
 
 #### Programming languages:
 -> Java :star: \
+-> Kotlin :star: \
 -> Swift :star: \
--> C# \
-->JavaScript \
--> PHP \
--> JavaScript \
+->JavaScript
 
 #### Frameworks:
 
 -> Springboot :star: \
--> .NET Core \
--> Laravel
+-> Angular \
+-> ReactJS
 
 #### Tools :hammer_and_wrench::
 
